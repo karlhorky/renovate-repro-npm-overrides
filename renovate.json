@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "local>karlhorky/renovate-config"
+    "github>karlhorky/renovate-config:default.json5"
   ]
 }
