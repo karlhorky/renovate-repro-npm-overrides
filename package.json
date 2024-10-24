@@ -5,12 +5,12 @@
   "private": true,
   "author": "Karl Horky <karl.horky@gmail.com>",
   "devDependencies": {
-    "@types/react": "18.0.5"
+    "@types/react": "18.3.12"
   },
   "resolutions": {
-    "@types/react": "18.0.5"
+    "@types/react": "18.3.12"
   },
   "overrides": {
-    "@types/react": "18.0.5"
+    "@types/react": "18.3.12"
   }
 }
